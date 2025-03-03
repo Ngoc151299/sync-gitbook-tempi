@@ -1,14 +1,14 @@
 ---
 description: >-
-  Hướng dẫn chi tiết về cách sử dụng Khối trên Trình kéo thả Website/Landing
-  page
+  Hướng dẫn chi tiết về cách sử dụng Khối dựng sẵn trên Trình kéo thả
+  Website/Landing page
 ---
 
-# Khối
+# Khối dựng sẵn
 
-Khối là các phần tử cơ bản đã được chúng tôi xây dựng sẵn theo nhiều loại bố cục khác nhau. Sử dụng khối được xây dựng sẵn sẽ giúp bạn tiết kiệm tối đa thời gian thiết kế cho Website/Landing page của mình.&#x20;
+Khối dựng sẵn là các khối đã được chúng tôi xây dựng sẵn theo nhiều loại bố cục khác nhau. Sử dụng khối được xây dựng sẵn sẽ giúp bạn tiết kiệm tối đa thời gian thiết kế cho Website/Landing page của mình.&#x20;
 
-## Cách thêm Khối
+## Cách thêm Khối dựng sẵn
 
 **Bước 1:** Tại vị trí mà bạn muốn thêm phần tử, bấm chọn **Thêm bố cục hoặc khối được xây dựng sẵn** để mở danh sách Bố cục và Khối đã được chúng tôi xây dựng sẵn.
 

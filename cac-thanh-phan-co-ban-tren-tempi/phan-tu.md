@@ -4,7 +4,7 @@ description: Hướng dẫn về cách sử dụng Phần tử trên Trình kéo
 
 # Phần tử
 
-Phần tử là lớp bên trong Cột. Cột sẽ chứa các Phần tử bên trong nó. Bạn có thể tạo nhiều Phần tử vào trong một Cột.
+Phần tử sẽ nằm trong Cột. Bạn có thể kéo thả nhiều Phần tử vào trong một Cột.
 
 ## Cách thêm phần tử
 

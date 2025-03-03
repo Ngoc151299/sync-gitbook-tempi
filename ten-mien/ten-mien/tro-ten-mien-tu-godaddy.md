@@ -17,7 +17,7 @@ Points to: kdc.tempi.vn
 Host record: @\
 Type (Loại): A\
 Value (Giá trị): 103.126.157.33\
-_Lưu ý: Thay tenmiencuaban.vn thành tên miền bạn đang cấu hình._
+&#xNAN;_&#x4C;ưu ý: Thay tenmiencuaban.vn thành tên miền bạn đang cấu hình._
 
 ## Trỏ tên miền phụ:
 

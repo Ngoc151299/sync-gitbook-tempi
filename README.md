@@ -2,7 +2,7 @@
 
 Bạn muốn yêu cầu tính năng/gửi ý kiến đóng góp cho team phát triển Tempi?&#x20;
 
-Vui lòng gửi cho chúng tôi [tại đây](https://www.messenger.com/t/115926154442425/?messaging\_source=source%3Apages%3Amessage\_shortlink\&source\_id=1441792\&recurring\_notification=0)
+Vui lòng gửi cho chúng tôi [tại đây](https://www.messenger.com/t/115926154442425/?messaging_source=source%3Apages%3Amessage_shortlink\&source_id=1441792\&recurring_notification=0)
 
 ## Tempi là gì?
 
@@ -28,6 +28,6 @@ Tài liệu này mô tả các tính năng cốt lõi của Tempi. Chúng tôi s
 
 Chúng tôi cũng sẽ cập nhật nội dung liên tục khi các tính năng mới được triển khai.&#x20;
 
-##
+
 
 Hãy cùng bắt đầu tìm hiểu nhé!

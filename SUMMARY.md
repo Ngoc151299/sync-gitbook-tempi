@@ -4,11 +4,11 @@
 
 ## Các thành phần cơ bản trên Tempi
 
-* [Các Chế Độ Thiết Kế Giao Diện](cac-thanh-phan-co-ban-tren-tempi/cac-che-do-thiet-ke-giao-dien.md)
+* [Các Chế Độ Thiết Kế Giao Diện Landing Page](cac-thanh-phan-co-ban-tren-tempi/cac-che-do-thiet-ke-giao-dien-landing-page.md)
 * [Hàng](cac-thanh-phan-co-ban-tren-tempi/hang.md)
 * [Cột](cac-thanh-phan-co-ban-tren-tempi/cot.md)
 * [Phần tử](cac-thanh-phan-co-ban-tren-tempi/phan-tu.md)
-* [Khối](cac-thanh-phan-co-ban-tren-tempi/khoi.md)
+* [Khối dựng sẵn](cac-thanh-phan-co-ban-tren-tempi/khoi-dung-san.md)
 
 ## PHẦN TỬ NÂNG CAO
 
