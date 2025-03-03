@@ -1,6 +1,6 @@
 # Các Chế Độ Thiết Kế Giao Diện Landing Page
 
-empi hiện đang có 2 chế độ thiết kế giao diện là **Responsive** và **Mobile Only**&#x20;
+Tempi hiện đang có 2 chế độ thiết kế giao diện là **Responsive** và **Mobile Only**&#x20;
 
 Các chế độ thiết kế chỉ khả dụng đối với trình kéo thả Landing page.
 
