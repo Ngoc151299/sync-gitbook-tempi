@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tạo và xác thực tên miền lại Tempi
 
 **Bước 1:** Tại trang chủ của Tempi, vào phần **Tên miền** và bấm chọn **+ Thêm tên miền mới.**

@@ -6,7 +6,7 @@ description: Hướng dẫn chi tiết cách sử dụng Form trên Trình kéo 
 
 ## 1. **Cách thêm Phần tử**
 
-**Bước 1 - Thêm phần tử:** Kéo thả phần tử Vòng quay may mắn vào trang thiết kế tương tự như cách thêm các phần tử khác[ **tại đây.**](../../cac-thanh-phan-co-ban-tren-tempi/phan-tu.md)
+**Bước 1 - Thêm phần tử:** Kéo thả phần tử Form vào trang thiết kế tương tự như cách thêm các phần tử khác[ **tại đây.**](../../cac-thanh-phan-co-ban-tren-tempi/phan-tu/)
 
 ![](<../../.gitbook/assets/Giao diện form (1).png>)
 

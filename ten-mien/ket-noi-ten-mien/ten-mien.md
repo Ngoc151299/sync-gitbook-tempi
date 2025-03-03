@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tên Miền
 
 ## Bước 1: Trỏ tên miền về hosting của Tempi
@@ -43,10 +47,6 @@ Dưới đây là hướng dẫn cụ thể cho từng nền tảng mà bạn mu
 
 {% content-ref url="tro-ten-mien-tu-pa-viet-nam.md" %}
 [tro-ten-mien-tu-pa-viet-nam.md](tro-ten-mien-tu-pa-viet-nam.md)
-{% endcontent-ref %}
-
-{% content-ref url="tro-ten-mien-tu-nhan-hoa.md" %}
-[tro-ten-mien-tu-nhan-hoa.md](tro-ten-mien-tu-nhan-hoa.md)
 {% endcontent-ref %}
 
 ## Bước 2: Tạo và xác thực tên miền tại Tempi

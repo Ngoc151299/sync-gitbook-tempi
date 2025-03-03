@@ -1,5 +1,6 @@
 ---
 description: Hướng dẫn chi tiết Mua tên miền từ nhà cung cấp Nhân Hoà
+hidden: true
 ---
 
 # Mua tên miền từ nhà cung cấp Nhân Hoà

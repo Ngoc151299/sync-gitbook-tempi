@@ -24,9 +24,8 @@ Value (Giá trị):  103.126.157.33
 
 ## Trỏ tên miền phụ
 
-Giả sử tên miền chính của bạn là tenmiencuaban.vn, và bạn muốn tạo một tên miền phụ là abc.tenmiencuaban.vn thì:\
-Chọn tên miền chính bạn muốn cài đặt, sau đó tạo một bản ghi mới và điền các giá trị như sau:\
-Host record: \
+Giả sử tên miền chính là example.com, và bạn muốn tạo một tên miền phụ là abc.example.com thì chọn tên miền chính bạn muốn cài đặt, sau đó tạo một bản ghi mới với các giá trị như sau:\
+Host record: abc\
 Type (Loại): CNAME\
 Value (Giá trị): kdc.tempi.vn
 

@@ -7,7 +7,12 @@
 * [Các Chế Độ Thiết Kế Giao Diện Landing Page](cac-thanh-phan-co-ban-tren-tempi/cac-che-do-thiet-ke-giao-dien-landing-page.md)
 * [Hàng](cac-thanh-phan-co-ban-tren-tempi/hang.md)
 * [Cột](cac-thanh-phan-co-ban-tren-tempi/cot.md)
-* [Phần tử](cac-thanh-phan-co-ban-tren-tempi/phan-tu.md)
+* [Phần tử](cac-thanh-phan-co-ban-tren-tempi/phan-tu/README.md)
+  * [Đoạn văn](cac-thanh-phan-co-ban-tren-tempi/phan-tu/doan-van.md)
+  * [Hình ảnh](cac-thanh-phan-co-ban-tren-tempi/phan-tu/hinh-anh.md)
+  * [Thư viện ảnh](cac-thanh-phan-co-ban-tren-tempi/phan-tu/thu-vien-anh.md)
+  * [Video](cac-thanh-phan-co-ban-tren-tempi/phan-tu/video.md)
+  * [Nút bấm](cac-thanh-phan-co-ban-tren-tempi/phan-tu/nut-bam.md)
 * [Khối dựng sẵn](cac-thanh-phan-co-ban-tren-tempi/khoi-dung-san.md)
 
 ## PHẦN TỬ NÂNG CAO
@@ -18,22 +23,31 @@
   * [Lưu data về API](phan-t-nang-cao/form-thong-tin/luu-data-ve-api.md)
 * [Vòng Quay May Mắn](phan-t-nang-cao/vong-quay-may-man.md)
 
+## CẤU HÌNH WEBSITE
+
+* [Cấu hình website đa ngôn ngữ](cau-hinh-website/cau-hinh-website-da-ngon-ngu.md)
+
 ## TÊN MIỀN
 
-* [Tên miền](ten-mien/ten-mien/README.md)
-  * [Tên Miền](ten-mien/ten-mien/ten-mien.md)
-  * [Mua tên miền từ nhà cung cấp Nhân Hoà](ten-mien/ten-mien/mua-ten-mien-tu-nha-cung-cap-nhan-hoa.md)
-  * [Tạo và xác thực tên miền lại Tempi](ten-mien/ten-mien/tao-va-xac-thuc-ten-mien-lai-tempi.md)
-  * [Trỏ tên miền từ Namecheap](ten-mien/ten-mien/tro-ten-mien-tu-namecheap.md)
-  * [Trỏ tên miền từ GoDaddy](ten-mien/ten-mien/tro-ten-mien-tu-godaddy.md)
-  * [Trỏ tên miền từ iNET](ten-mien/ten-mien/tro-ten-mien-tu-inet.md)
-  * [Trỏ tên miền từ HOSTVN](ten-mien/ten-mien/tro-ten-mien-tu-hostvn.md)
-  * [Trỏ tên miền từ TenTen](ten-mien/ten-mien/tro-ten-mien-tu-tenten.md)
-  * [Trỏ tên miền từ Mắt Bão](ten-mien/ten-mien/tro-ten-mien-tu-mat-bao.md)
-  * [Trỏ tên miền từ PA Việt Nam](ten-mien/ten-mien/tro-ten-mien-tu-pa-viet-nam.md)
-  * [Trỏ tên miền từ Nhân Hoà](ten-mien/ten-mien/tro-ten-mien-tu-nhan-hoa.md)
+* [Mua tên miền trực tiếp trên Tempi](ten-mien/mua-ten-mien-truc-tiep-tren-tempi.md)
+* [Kết nối tên miền](ten-mien/ket-noi-ten-mien/README.md)
+  * [Tên Miền](ten-mien/ket-noi-ten-mien/ten-mien.md)
+  * [Mua tên miền từ nhà cung cấp Nhân Hoà](ten-mien/ket-noi-ten-mien/mua-ten-mien-tu-nha-cung-cap-nhan-hoa.md)
+  * [Tạo và xác thực tên miền lại Tempi](ten-mien/ket-noi-ten-mien/tao-va-xac-thuc-ten-mien-lai-tempi.md)
+  * [Trỏ tên miền từ Nhân Hoà](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-nhan-hoa.md)
+  * [Trỏ tên miền từ Mắt Bão](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-mat-bao.md)
+  * [Trỏ tên miền từ TenTen](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-tenten.md)
+  * [Trỏ tên miền từ iNET](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-inet.md)
+  * [Trỏ tên miền từ Namecheap](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-namecheap.md)
+  * [Trỏ tên miền từ GoDaddy](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-godaddy.md)
+  * [Trỏ tên miền từ HOSTVN](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-hostvn.md)
+  * [Trỏ tên miền từ PA Việt Nam](ten-mien/ket-noi-ten-mien/tro-ten-mien-tu-pa-viet-nam.md)
 
 ## Smart popup
 
 * [Quản lý popup](smart-popup/quan-ly-popup.md)
 * [Tạo mới popup](smart-popup/tao-moi-popup.md)
+
+## PHÁT TRIỂN COMPONENT
+
+* [Hướng dẫn Deploy Component](phat-trien-component/huong-dan-deploy-component.md)

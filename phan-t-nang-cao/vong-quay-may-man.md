@@ -8,7 +8,7 @@ description: >-
 
 ## 1. **Cách thêm Phần tử**
 
-**Bước 1 - Thêm phần tử:** Kéo phần tử Vòng quay may mắn tương tự như cách thêm các phần tử khác[ **tại đây.**](../cac-thanh-phan-co-ban-tren-tempi/phan-tu.md)
+**Bước 1 - Thêm phần tử:** Kéo phần tử Vòng quay may mắn tương tự như cách thêm các phần tử khác[ **tại đây.**](../cac-thanh-phan-co-ban-tren-tempi/phan-tu/)
 
 <figure><img src="../.gitbook/assets/VQMM1.png" alt=""><figcaption><p>Giao diện hiển thị Vòng quay may mắn khi chưa được cấu hình phần thưởng</p></figcaption></figure>
 

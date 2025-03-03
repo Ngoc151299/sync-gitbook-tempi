@@ -28,6 +28,6 @@ Khối dựng sẵn là các khối đã được chúng tôi xây dựng sẵn 
 [cot.md](cot.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-tu.md" %}
-[phan-tu.md](phan-tu.md)
+{% content-ref url="phan-tu/" %}
+[phan-tu](phan-tu/)
 {% endcontent-ref %}

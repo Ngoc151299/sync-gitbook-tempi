@@ -1,10 +1,10 @@
-# Trỏ tên miền từ HOSTVN
+# Trỏ tên miền từ HOSTVN
 
 Bạn truy cập trang quản trị tên miền của HOSTVN tại [https://dns.hostvn.net/](https://dns.hostvn.net/)
 
 **Bước 1:** Sử dụng tài khoản khách hàng của bạn tại HOSTVN để đăng nhập
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 **Bước 2:** Chọn **Quản lý DNS** tại tên miền cần trỏ về Tempi
 
