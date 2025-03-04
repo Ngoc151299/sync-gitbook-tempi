@@ -30,7 +30,7 @@ Trước khi đi vào tìm hiểu cách mua tên miền cho website, bạn cần
 
 ### 2. Hướng dẫn mua tên miền trực tiếp trên Tempi[​](https://tempi.vn/huong-dan/ten-mien/ten-mien/mua-ten-mien-truc-tiep-tren-tempi/#2-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-mua-t%C3%AAn-mi%E1%BB%81n-tr%E1%BB%B1c-ti%E1%BA%BFp-tr%C3%AAn-tempi) <a href="#id-2-huong-dan-mua-ten-mien-truc-tiep-tren-tempi" id="id-2-huong-dan-mua-ten-mien-truc-tiep-tren-tempi"></a>
 
-**Bước 1:** Tại trang Dashboard tài khoản Tempi của bạn, vào mục **Tên miền**. Bấm **+ Đăng ký tên miền mới.**
+**Bước 1:** Tại trang Dashboard tài khoản Tempi của bạn, vào mục **Tên miền**. Bấm **+ Mua tên miền mới.**
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Trước khi đi vào tìm hiểu cách mua tên miền cho website, bạn cần
 
 Nhập tên miền bạn muốn đăng ký và bấm vào nút **Kiểm tra,** để kiểm tra xem tên miền đã có người sở hữu chưa.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Nếu tên miền chưa có người đăng ký, hệ thống sẽ hiển thị giá của tên miền trong vòng 01 năm
 

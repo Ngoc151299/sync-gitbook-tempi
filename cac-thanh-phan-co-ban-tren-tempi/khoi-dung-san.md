@@ -10,7 +10,7 @@ Khối dựng sẵn là các khối đã được chúng tôi xây dựng sẵn 
 
 ## Cách thêm Khối dựng sẵn
 
-**Bước 1:** Tại vị trí mà bạn muốn thêm phần tử, bấm chọn **Thêm bố cục hoặc khối được xây dựng sẵn** để mở danh sách Bố cục và Khối đã được chúng tôi xây dựng sẵn.
+Bước 1: Tại vị trí mà bạn muốn thêm phần tử, bấm chọn Thêm bố cục hoặc khối được xây dựng sẵn để mở danh sách Bố cục và Khối đã được chúng tôi xây dựng sẵn.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-11-06 at 16.01.18.png" alt="" width="464"><figcaption></figcaption></figure>
 

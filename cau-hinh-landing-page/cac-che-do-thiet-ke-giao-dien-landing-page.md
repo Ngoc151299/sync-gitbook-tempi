@@ -2,7 +2,7 @@
 
 Tempi hiện đang có 2 chế độ thiết kế giao diện là **Responsive** và **Mobile Only**&#x20;
 
-Các chế độ thiết kế chỉ khả dụng đối với trình kéo thả Landing page.
+**Lưu ý**: Các chế độ thiết kế chỉ khả dụng đối với trình kéo thả Landing page.
 
 Vào mục **Landing Page** bấm chọn **+ Thêm trang mới** rồi chọn Kiểu giao diện thiết kế bạn muốn sử dụng:
 
