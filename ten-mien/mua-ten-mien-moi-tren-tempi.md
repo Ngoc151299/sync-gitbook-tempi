@@ -1,8 +1,8 @@
 ---
-description: Hướng dẫn chi tiết Mua tên miền trực tiếp trên Tempi
+description: Hướng dẫn chi tiết Mua tên miền mới trực tiếp trên Tempi
 ---
 
-# Mua tên miền trực tiếp trên Tempi
+# Mua tên miền mới trên Tempi
 
 ### 1. Những lưu ý khi lựa chọn tên miền[​](https://tempi.vn/huong-dan/ten-mien/ten-mien/mua-ten-mien-truc-tiep-tren-tempi/#1-nh%E1%BB%AFng-l%C6%B0u-%C3%BD-khi-l%E1%BB%B1a-ch%E1%BB%8Dn-t%C3%AAn-mi%E1%BB%81n) <a href="#id-1-nhung-luu-y-khi-lua-chon-ten-mien" id="id-1-nhung-luu-y-khi-lua-chon-ten-mien"></a>
 

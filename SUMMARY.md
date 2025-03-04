@@ -42,7 +42,7 @@
 
 ## TÊN MIỀN
 
-* [Mua tên miền trực tiếp trên Tempi](ten-mien/mua-ten-mien-truc-tiep-tren-tempi.md)
+* [Mua tên miền mới trên Tempi](ten-mien/mua-ten-mien-moi-tren-tempi.md)
 * [Kết nối tên miền bạn có sẵn](ten-mien/ket-noi-ten-mien-ban-co-san/README.md)
   * [Tên Miền](ten-mien/ket-noi-ten-mien-ban-co-san/ten-mien.md)
   * [Mua tên miền từ nhà cung cấp Nhân Hoà](ten-mien/ket-noi-ten-mien-ban-co-san/mua-ten-mien-tu-nha-cung-cap-nhan-hoa.md)
