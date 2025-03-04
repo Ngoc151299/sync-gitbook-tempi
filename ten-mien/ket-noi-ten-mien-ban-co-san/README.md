@@ -1,8 +1,8 @@
 ---
-description: Hướng dẫn chi tiết Cách kết nối tên miền riêng của bạn về Tempi
+description: Hướng dẫn chi tiết Cách kết nối tên miền bạn có sẵn về Tempi
 ---
 
-# Kết nối tên miền riêng
+# Kết nối tên miền bạn có sẵn
 
 ## **Bước 1: Trỏ tên miền về Hosting của Temp**i
 

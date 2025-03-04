@@ -43,18 +43,18 @@
 ## TÊN MIỀN
 
 * [Mua tên miền trực tiếp trên Tempi](ten-mien/mua-ten-mien-truc-tiep-tren-tempi.md)
-* [Kết nối tên miền riêng](ten-mien/ket-noi-ten-mien-rieng/README.md)
-  * [Tên Miền](ten-mien/ket-noi-ten-mien-rieng/ten-mien.md)
-  * [Mua tên miền từ nhà cung cấp Nhân Hoà](ten-mien/ket-noi-ten-mien-rieng/mua-ten-mien-tu-nha-cung-cap-nhan-hoa.md)
-  * [Tạo và xác thực tên miền lại Tempi](ten-mien/ket-noi-ten-mien-rieng/tao-va-xac-thuc-ten-mien-lai-tempi.md)
-  * [Trỏ tên miền từ Nhân Hoà](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-nhan-hoa.md)
-  * [Trỏ tên miền từ Mắt Bão](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-mat-bao.md)
-  * [Trỏ tên miền từ TenTen](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-tenten.md)
-  * [Trỏ tên miền từ iNET](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-inet.md)
-  * [Trỏ tên miền từ Namecheap](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-namecheap.md)
-  * [Trỏ tên miền từ GoDaddy](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-godaddy.md)
-  * [Trỏ tên miền từ HOSTVN](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-hostvn.md)
-  * [Trỏ tên miền từ PA Việt Nam](ten-mien/ket-noi-ten-mien-rieng/tro-ten-mien-tu-pa-viet-nam.md)
+* [Kết nối tên miền bạn có sẵn](ten-mien/ket-noi-ten-mien-ban-co-san/README.md)
+  * [Tên Miền](ten-mien/ket-noi-ten-mien-ban-co-san/ten-mien.md)
+  * [Mua tên miền từ nhà cung cấp Nhân Hoà](ten-mien/ket-noi-ten-mien-ban-co-san/mua-ten-mien-tu-nha-cung-cap-nhan-hoa.md)
+  * [Tạo và xác thực tên miền lại Tempi](ten-mien/ket-noi-ten-mien-ban-co-san/tao-va-xac-thuc-ten-mien-lai-tempi.md)
+  * [Trỏ tên miền từ Nhân Hoà](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-nhan-hoa.md)
+  * [Trỏ tên miền từ Mắt Bão](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-mat-bao.md)
+  * [Trỏ tên miền từ TenTen](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-tenten.md)
+  * [Trỏ tên miền từ iNET](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-inet.md)
+  * [Trỏ tên miền từ Namecheap](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-namecheap.md)
+  * [Trỏ tên miền từ GoDaddy](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-godaddy.md)
+  * [Trỏ tên miền từ HOSTVN](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-hostvn.md)
+  * [Trỏ tên miền từ PA Việt Nam](ten-mien/ket-noi-ten-mien-ban-co-san/tro-ten-mien-tu-pa-viet-nam.md)
 
 ## PHÁT TRIỂN COMPONENT
 
