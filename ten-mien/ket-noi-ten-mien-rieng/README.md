@@ -71,6 +71,16 @@ Dưới đây là hướng dẫn cụ thể cho từng nền tảng mà bạn mu
 
 ## Bước 2: Tạo và xác thực tên miền lại Tempi
 
-{% content-ref url="tao-va-xac-thuc-ten-mien-lai-tempi.md" %}
-[tao-va-xac-thuc-ten-mien-lai-tempi.md](tao-va-xac-thuc-ten-mien-lai-tempi.md)
-{% endcontent-ref %}
+**Bước 1:** Tại trang chủ của Tempi, vào phần **Tên miền** và bấm chọn **+ Thêm tên miền mới.**
+
+![](https://storage.googleapis.com/teko-landing-builder-cdn/tempi-help/assets/te%CC%82n%20mie%CC%82%CC%80n.png)
+
+**Bước 2:** Nhập tên miền của bạn và nhấn **Tạo tên miền.**
+
+![](https://storage.googleapis.com/teko-landing-builder-cdn/tempi-help/assets/te%CC%82n%20mie%CC%82%CC%80n1.png)
+
+**Bước 3:** Chờ xác nhận cấu hình DNS cho tên miền tại nơi bạn đã mua tên miền
+
+**Bước 4:** Sau khi tạo tên miền thành công, bấm vào nút **Xác thực** để xác thực tên miền
+
+<div align="center"><img src="https://storage.googleapis.com/teko-landing-builder-cdn/tempi-help/assets/te%CC%82n%20mie%CC%82%CC%80n2.png" alt=""></div>
