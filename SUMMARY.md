@@ -6,6 +6,7 @@
 
 * [Tạo và chỉnh sửa Website](cau-hinh-website/tao-va-chinh-sua-website.md)
 * [Cấu hình website đa ngôn ngữ](cau-hinh-website/cau-hinh-website-da-ngon-ngu.md)
+* [Tạo website bán hàng](cau-hinh-website/tao-website-ban-hang.md)
 
 ## CẤU HÌNH LANDING PAGE
 
