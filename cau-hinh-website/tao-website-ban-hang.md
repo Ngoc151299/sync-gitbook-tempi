@@ -25,14 +25,15 @@ Các phần cài đặt nhanh cho phần tử danh sách sản phẩm bao gồm:
 
 *   **Quản lý bán hàng:** Bấm vào "Quản lý bán hàng" hoặc biểu tượng giỏ hàng trên Sidebar bên trái màn hình để mở phần quản lý bán hàng này
 
-    <figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-    Từ màn quản lý đơn hàng, bạn có thể truy cập các mục sau:
 
-    * Quản lý sản phẩm: Tạo, chỉnh sửa và quản lý toàn bộ sản phẩm của bạn
-    * Popup đặt hàng: Tùy chỉnh thông tin giao hàng và kết nối lưu dữ liệu về Gmail Google sheet
-    * Phương thức thanh toán: Tùy chỉnh các phương thức thanh toán COD, chuyển khoản qua ngân hàng, thanh toán qua VNPAY để có thể nhận thanh toán từ khách hàng của bạn
-    * Quản lý đơn hàng: Quản lý toàn bộ đơn hàng, trạng thái thanh toán và trạng thái xử lý đơn
+
+    * Từ màn quản lý đơn hàng, bạn có thể truy cập các mục sau:
+      * **Quản lý sản phẩm**: Tạo, chỉnh sửa và quản lý toàn bộ sản phẩm của bạn
+      * **Popup đặt hàng**: Tùy chỉnh thông tin giao hàng và kết nối lưu dữ liệu về Gmail Google sheet
+      * **Phương thức thanh toán**: Tùy chỉnh các phương thức thanh toán COD, chuyển khoản qua ngân hàng, thanh toán qua VNPAY để có thể nhận thanh toán từ khách hàng của bạn
+      * **Quản lý đơn hàng**: Quản lý toàn bộ đơn hàng, trạng thái thanh toán và trạng thái xử lý đơn
 
 ## Bước 3: Tùy chỉnh giao diện bán hàng trên website
 
@@ -55,7 +56,7 @@ Hướng dẫn cấu hình từ trên xuống dưới
   * Nút mua ngay -> khi khách hàng bấm vào, hệ thống mở ngay popup đặt hàng
   * Nút liên hệ -> khi khách hàng bấm vào, hệ thống điều hướng khách hàng đến đường dẫn bạn cấu hình
 
-Ngoài ra bạn có thể tùy chỉnh giao diện hiển thị ở tab Thiết kế
+Ngoài ra bạn có thể tùy chỉnh giao diện hiển thị **danh sách sản phẩm** ở tab **Thiết kế**
 
 <figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 

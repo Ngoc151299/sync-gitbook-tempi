@@ -14,4 +14,4 @@ Tại màn hình danh sách Website, click button "Thêm mới Website" để t�
 
 Tại trình kéo thả Website, chọn thêm bố cục hoặc khối được xây dựng sẵn để bắt đầu thiết kế Website của bạn
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
