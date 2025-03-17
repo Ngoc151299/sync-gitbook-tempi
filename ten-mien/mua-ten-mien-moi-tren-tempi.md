@@ -38,11 +38,11 @@ Trước khi đi vào tìm hiểu cách mua tên miền cho website, bạn cần
 
 Nhập tên miền bạn muốn đăng ký và bấm vào nút **Kiểm tra,** để kiểm tra xem tên miền đã có người sở hữu chưa.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nếu tên miền chưa có người đăng ký, hệ thống sẽ hiển thị giá của tên miền trong vòng 01 năm
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở đây, bấm **Đăng ký** để tiếp tục mua tên miền.
 

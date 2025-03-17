@@ -23,22 +23,20 @@ Kéo thả phần tử **Danh sách sản phẩm** vào website
 
 Các phần cài đặt nhanh bao gồm:
 
-* Quản lý bán hàng cho phép bạn quản lý các thành phần chính trong luồng bán hàng
-  *
+*   Quản lý bán hàng cho phép bạn quản lý các thành phần chính trong luồng bán hàng
 
-      <figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption><p>Bấm</p></figcaption></figure>
+    Bấm vào "Quản lý bán hàng" hoặc biểu tượng giỏ hàng trên Sidebar bên trái để mở phần quản lý bán hàng
 
-Quản lý sản phẩm: Tạo chỉnh sửa và quản lý toàn bộ sản phẩm của bạn
+    <figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-Popup đặt hàng: Tùy chỉnh thông tin giao hàng và kết nối lưu dữ liệu về Gmail Google sheet
-
-Phương thức thanh toán: Tùy chỉnh các phương thức thanh toán để có thể nhận thanh toán từ khách hàng của bạn
-
-Quản lý đơn hàng: Quản lý toàn bộ đơn hàng trạng thái thanh toán và trạng thái xử lý đơn
+    * Quản lý sản phẩm: Tạo chỉnh sửa và quản lý toàn bộ sản phẩm của bạn
+    * Popup đặt hàng: Tùy chỉnh thông tin giao hàng và kết nối lưu dữ liệu về Gmail Google sheet
+    * Phương thức thanh toán: Tùy chỉnh các phương thức thanh toán COD, chuyển khoản qua ngân hàng, thanh toán qua VNPAY để có thể nhận thanh toán từ khách hàng của bạn
+    * Quản lý đơn hàng: Quản lý toàn bộ đơn hàng trạng thái thanh toán và trạng thái xử lý đơn
 
 
 
-Bước 3: Tùy chỉnh giao diện luồng bán hàng trên website của bạn
+Bước 3: Tùy chỉnh giao diện bán hàng trên website của bạn
 
 Bạn cần 1 website hiển thị danh sách sản phẩm, điều hướng khách hàng đến đường dẫn sản phẩm trên các nền tảng khác hoặc liên hệ đặt hàng với bạn&#x20;
 
@@ -46,10 +44,22 @@ Bạn cần 1 website hiển thị danh sách sản phẩm, hiển thị chi ti�
 
 Danh sách sản phẩm hiển thị:
 
-Chọn sản phẩm hiển thị:
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* Chọn theo danh mục
-* Chọn một số sản phẩm
+Hướng dẫn cấu hình từ trên xuống dưới
+
+* Quản lý sản phẩm: mở màn danh sách sản phẩm, cho phép tạo, chỉnh sửa hoặc import danh sách sản phẩm của bạn
+* Chọn sản phẩm hiển thị:
+  * Hiển thị theo danh mục: bạn có thể quản lý sản phẩm theo danh mục ở màn danh sách sản phẩm
+  * Hiển thị một số sản phẩm cụ thể: cho phép bạn xem, tìm kiếm sản phẩm theo tên, danh mục để chọn ra một số sản phẩm cần hiển thị như bán chạy nhất, mới nhất, khuyến mãi nhiều nhất...
+* Nội dung hiển thị: cho phép bạn bật tắt hoặc kéo thả các nội dung để di chuyển vị trí hiển thị
+* Sự kiện khi khách hàng bấm vào sản phẩm của bạn
+  * TH bạn có nhiều thông tin, hình ảnh về sản phẩm bạn nên chọn lựa chọn đầu tiên: Mở popup hiển thị chi tiết sản phẩm
+  * TH bạn chỉ cần 1 trang trưng bày danh sách sản phẩm điều hướng khách hàng về 1 nền tảng khác có sẵn -> bạn nên chọn lựa chọn 2, cấu hình đường dãn cho từng sản phẩm và điều hướng khách hàng của bạn đến đó
+* Nút kêu gọi hành động: bạn có thể thêm tối đa 2 nút theo mục đích bạn muốn
+  * Nút thêm vào giỏ hàng -> khi khách hàng bấm vào, sản phẩm sẽ được thêm vào giỏ
+  * Nút mua ngay -> khi khách hàng bấm vào, hệ thống mở ngay popup đặt hàng
+  * Nút liên hệ -> khi khách hàng bấm vào, hệ thống điều hướng khách hàng đến đường dẫn bạn cấu hình
 
 
 
