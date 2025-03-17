@@ -5,10 +5,8 @@ hidden: true
 
 # Tạo website bán hàng
 
-
-
 {% hint style="warning" %}
-Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày dd/mm/yyyy, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
+Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày 19/03/2025, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
 {% endhint %}
 
 Bước 1: Tạo mới website theo hướng dẫn
@@ -21,7 +19,14 @@ Bước 2: Thêm mới danh sách sản phẩm
 
 Kéo thả phần tử **Danh sách sản phẩm** vào website
 
-Quản lý bán hàng cho phép bạn quản lý các thành phần trong luồng bán hàng
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+
+Các phần cài đặt nhanh bao gồm:
+
+* Quản lý bán hàng cho phép bạn quản lý các thành phần chính trong luồng bán hàng
+  *
+
+      <figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption><p>Bấm</p></figcaption></figure>
 
 Quản lý sản phẩm: Tạo chỉnh sửa và quản lý toàn bộ sản phẩm của bạn
 
