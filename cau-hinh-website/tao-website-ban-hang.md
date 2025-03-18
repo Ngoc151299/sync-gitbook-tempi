@@ -34,9 +34,9 @@ Các phần cài đặt nhanh cho phần tử danh sách sản phẩm bao gồm:
       * **Popup đặt hàng**: Tùy chỉnh thông tin giao hàng và kết nối lưu dữ liệu về Gmail Google sheet
       * **Phương thức thanh toán**: Tùy chỉnh các phương thức thanh toán COD, chuyển khoản qua ngân hàng, thanh toán qua VNPAY để có thể nhận thanh toán từ khách hàng của bạn
       * **Quản lý đơn hàng**: Quản lý toàn bộ đơn hàng, trạng thái thanh toán và trạng thái xử lý đơn
-* **Biểu tượng Cài đặt :** mở phần cài đặt nội dung danh sách sản phẩm
-* **Biểu tượng Nhân bản**: cho phép bạn nhân bản phần tử
-* **Biểu tượng Xóa**: cho phép bạn xóa phần tử
+* Biểu tượng **Cài đặt :** mở phần cài đặt nội dung danh sách sản phẩm
+* Biểu tượng **Nhân bản**: cho phép bạn nhân bản phần tử
+* Biểu tượng **Xóa**: cho phép bạn xóa phần tử
 
 ## Bước 3: Tùy chỉnh giao diện bán hàng trên website
 
