@@ -1,6 +1,5 @@
 ---
 description: Hướng dẫn tạo website bán hàng
-hidden: true
 ---
 
 # Tạo website bán hàng
