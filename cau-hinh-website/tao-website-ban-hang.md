@@ -5,7 +5,7 @@ description: Hướng dẫn tạo website bán hàng
 # Tạo website bán hàng
 
 {% hint style="warning" %}
-Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **19/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
+Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
 {% endhint %}
 
 ## Bước 1: Tạo mới website
