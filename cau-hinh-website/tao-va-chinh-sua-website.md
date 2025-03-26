@@ -16,7 +16,9 @@ Tại trình kéo thả Website, chọn thêm bố cục hoặc khối được 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Bấm vào biểu tượng "Cài đặt" góc trái màn hình để cấu hình các thông tin chung cho Website của bạn
+Hướng dẫn các phần cài đặt chung cho Website
+
+**Bấm vào biểu tượng "Cài đặt" góc trái màn hình để cấu hình các thông tin chung cho Website của bạn:**
 
 ### Thay favicon (biểu tượng website)
 
