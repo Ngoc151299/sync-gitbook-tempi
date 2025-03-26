@@ -15,3 +15,12 @@ Tại màn hình danh sách Website, click button "Thêm mới Website" để t�
 Tại trình kéo thả Website, chọn thêm bố cục hoặc khối được xây dựng sẵn để bắt đầu thiết kế Website của bạn
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Bấm vào biểu tượng "Cài đặt" góc trái màn hình để cấu hình các thông tin chung cho Website của bạn
+
+### Thay favicon (biểu tượng website)
+
+Bấm vào phần tải ảnh để tải lên ảnh favicon (biểu tượng website) của bạn, ảnh này sẽ hiển thị bên cạnh tiêu đề trang của bạn để khách hàng có thể dễ nhận diện hơn
+
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
