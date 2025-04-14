@@ -66,7 +66,7 @@ Ngoài ra bạn có thể tùy chỉnh giao diện hiển thị **danh sách s�
 
 ## Hướng dẫn chuyển đổi danh sách sản phẩm ở website cũ sang website mới
 
-Do tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, bạn có thể làm theo hướng dẫn chi tiết bên dưới hoặc vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
+Do tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, bạn có thể làm theo hướng dẫn chi tiết bên dưới hoặc vui lòng [liên hệ Tempi](https://m.me/tempi.vn) để được hỗ trợ
 
 **Bước 1:** Xuất website cũ ra tệp **.tempiweb**
 
