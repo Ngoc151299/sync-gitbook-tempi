@@ -4,7 +4,11 @@ description: Hướng dẫn tạo website bán hàng
 
 # Tạo website bán hàng
 
+{% hint style="warning" %}
 Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, bạn có thể tham khảo hướng dẫn ở [cuối bài này](tao-website-ban-hang.md#huong-dan-chuyen-doi-danh-sach-san-pham-o-website-cu-sang-website-moi) hoặc vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
+{% endhint %}
+
+## [Video hướng dẫn](https://www.youtube.com/watch?v=2aTP52y7MS8)
 
 ## Bước 1: Tạo mới website
 
