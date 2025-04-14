@@ -4,9 +4,7 @@ description: Hướng dẫn tạo website bán hàng
 
 # Tạo website bán hàng
 
-{% hint style="warning" %}
-Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
-{% endhint %}
+Tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, bạn có thể tham khảo hướng dẫn ở [cuối bài này](tao-website-ban-hang.md#huong-dan-chuyen-doi-danh-sach-san-pham-o-website-cu-sang-website-moi) hoặc vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
 
 ## Bước 1: Tạo mới website
 
@@ -62,5 +60,46 @@ Ngoài ra bạn có thể tùy chỉnh giao diện hiển thị **danh sách s�
 
 <figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
+## Hướng dẫn chuyển đổi danh sách sản phẩm ở website cũ sang website mới
 
+Do tính năng này chỉ được hỗ trợ trên các website tạo mới từ ngày **21/03/2025**, nếu bạn có nhu cầu chuyển đổi danh sách sản phẩm từ các website cũ được tạo trên Tempi trước thời điểm này, bạn có thể làm theo hướng dẫn chi tiết bên dưới hoặc vui lòng [liên hệ Tempi](https://m.me/tempi.vn)[ ](https://m.me/tempi.vn)để được hỗ trợ
 
+**Bước 1:** Xuất website cũ ra tệp **.tempiweb**
+
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+
+**Bước 2:** Tạo website mới từ tệp **.tempiweb** vừa xuất ra từ web cũ
+
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+**Bước 3**: Xuất file danh sách sản phẩm từ website cũ
+
+Vào **Cài đặt** phần tử danh sách sản phẩm cũ -> vào phần **quản lý sản phẩm**
+
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+
+Chọn **xuất file** danh sách sản phẩm ra **tệp xlsx**&#x20;
+
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+
+**Bước 4**: Tải lên danh sách sản phẩm vào website mới
+
+Vào trình chỉnh sửa Website mới, kéo thả ra 1 phần tử **danh sách sản phẩm mới** và chọn phần **quản lý sản phẩm**
+
+<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+
+Tại màn **quản lý sản phẩm**, chọn **Import sản phẩm** -> chọn **tải về file mẫu** và điền thông tin sản phẩm vào file mẫu để tải lên (bạn có thể sao chép nội dung từ file danh sách sản phẩm cũ để tiết kiệm thời gian nhập thông tin sản phẩm vào file mẫu)
+
+<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+
+Sau khi hoàn thành nhập thông tin sản phẩm vào file mãu -> chọn **tải lên file**, kết quả tải file được thể hiện ở bảng "**Lịch sử tải file**" bên trái
+
+Sau khi tải lên danh sách sản phẩm thành công, mở lại tab chỉnh sửa website và chọn **nút đồng bộ sản phẩm** để cập nhật thông tin sản phẩm lên website của bạn
+
+<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+
+**Bước 5**: Xuất bản Website mới
+
+Sau khi chuyển đổi danh sách sản phẩm từ website cũ sang website mới, chọn dừng xuất bản website cũ và xuất bản lại website mới
