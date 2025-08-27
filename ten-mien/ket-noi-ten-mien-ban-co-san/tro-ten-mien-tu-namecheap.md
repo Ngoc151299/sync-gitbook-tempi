@@ -2,7 +2,7 @@
 
 Bạn truy cập vào tài khoản của bạn ở https://ap.www.namecheap.com/, vào mục **Account** và chọn **Domain List.**
 
-**Bước 1:** Tiếp theo, chọn tên miền mà bạn muốn cập nhật bản ghi, bấm nút <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" data-size="original">để truy cập vào phần quản lý tên miền đó.
+**Bước 1:** Tiếp theo, chọn tên miền mà bạn muốn cập nhật bản ghi, bấm nút <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">để truy cập vào phần quản lý tên miền đó.
 
 **Bước 2:** Chọn mục **Advanced DNS -> Add New Record** để tạo bản ghi tên miền.
 

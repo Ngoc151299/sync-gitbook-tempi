@@ -26,7 +26,7 @@ Các phần cài đặt nhanh cho phần tử danh sách sản phẩm bao gồm:
 
 *   **Quản lý bán hàng:** Bấm vào "Quản lý bán hàng" hoặc biểu tượng giỏ hàng trên Sidebar bên trái màn hình để mở phần quản lý bán hàng này
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

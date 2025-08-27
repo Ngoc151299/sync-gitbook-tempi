@@ -10,7 +10,7 @@ Chọn **chế độ máy tính/điện thoại** trên trình chỉnh sửa đ�
 * **Icon điện thoại**: Chỉnh sửa giao diện hiển thị trên điện thoại
 * **Icon con mắt**: Ẩn/hiện các phần tử đang sử dụng tính năng ẩn/hiện trên từng thiết bị tương ứng
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Hầu hết các phần tử trên Tempi đều có hỗ trợ chỉnh sửa riêng **kích thước (chiều rộng, chiều cao), cỡ chữ, bố cục** hiển thị riêng cho máy tính và điện thoại, chi tiết như bảng dưới
 

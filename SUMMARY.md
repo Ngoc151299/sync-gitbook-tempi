@@ -5,9 +5,10 @@
 ## CẤU HÌNH WEBSITE
 
 * [Tạo và chỉnh sửa Website](cau-hinh-website/tao-va-chinh-sua-website.md)
+* [Chỉnh sửa giao diện cho điện thoại](cau-hinh-website/chinh-sua-giao-dien-cho-dien-thoai.md)
 * [Cấu hình website đa ngôn ngữ](cau-hinh-website/cau-hinh-website-da-ngon-ngu.md)
 * [Tạo website bán hàng](cau-hinh-website/tao-website-ban-hang.md)
-* [Chỉnh sửa giao diện cho điện thoại](cau-hinh-website/chinh-sua-giao-dien-cho-dien-thoai.md)
+* [Cấu hình SEO, ảnh mạng xã hội](cau-hinh-website/cau-hinh-seo-anh-mang-xa-hoi.md)
 
 ## CẤU HÌNH LANDING PAGE
 
