@@ -20,7 +20,7 @@ Value (Giá trị): kdc.tempi.vn&#x20;
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị):  103.126.157.33
+Value (Giá trị):  103.126.157.43
 
 ## Trỏ tên miền phụ
 
@@ -29,4 +29,4 @@ Host record: abc\
 Type (Loại): CNAME\
 Value (Giá trị): kdc.tempi.vn
 
-Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)\
+Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)<br>

@@ -30,4 +30,4 @@ Bước 3: Bấm chọn **Trỏ tên miền về Tempi**
 
 ![](<../../.gitbook/assets/hostvn-07 copy (1) copy.png>)
 
-Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)\
+Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)<br>

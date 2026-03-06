@@ -23,7 +23,7 @@ Value (Giá trị): kdc.tempi.vn
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị): 103.126.157.33
+Value (Giá trị): 103.126.157.43
 
 ![](<../../.gitbook/assets/Screen Shot 2019-11-28 at 5.43.54 PM copy.png>)
 
@@ -55,7 +55,7 @@ Value (Giá trị): kdc.tempi.vn
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị): 103.126.157.33&#x20;
+Value (Giá trị): 103.126.157.43&#x20;
 
 ![](<../../.gitbook/assets/image (7) (1).png>)
 
@@ -67,4 +67,4 @@ Sau khi tạo xong, phần danh sách bản ghi hiển thị đủ 2 bản ghi n
 
 ![](<../../.gitbook/assets/image (10) copy.png>)
 
-Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)\
+Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)<br>

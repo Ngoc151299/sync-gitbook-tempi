@@ -20,7 +20,7 @@ Target: kdc.tempi.vn
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị): 103.126.157.33
+Value (Giá trị): 103.126.157.43
 
 ## Trỏ tên miền phụ
 
@@ -38,4 +38,4 @@ Bấm vào ![](<../../.gitbook/assets/image (136).png>) để thêm bản ghi.
 
 Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)
 
-\
+<br>

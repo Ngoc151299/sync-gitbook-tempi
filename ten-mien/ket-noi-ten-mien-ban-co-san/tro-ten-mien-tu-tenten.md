@@ -15,7 +15,7 @@ Value (Giá trị): kdc.tempi.vn
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị):  103.126.157.33&#x20;
+Value (Giá trị):  103.126.157.43&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2019-11-28 at 6.17.51 PM copy (1) copy.png>)
 
@@ -25,4 +25,4 @@ Host record: abc\
 Type (Loại): CNAME\
 Value (Giá trị): kdc.tempi.vn
 
-Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)\
+Sau khi đã trỏ thành công tên miền về hosting của Tempi, bạn cần tiếp tục [tạo và xác thực tên miền tại Tempi.](tao-va-xac-thuc-ten-mien-lai-tempi.md)<br>

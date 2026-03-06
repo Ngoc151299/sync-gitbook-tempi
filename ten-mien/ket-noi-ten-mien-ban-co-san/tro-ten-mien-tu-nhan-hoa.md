@@ -13,7 +13,7 @@ Value (Giá trị): kdc.tempi.vn
 
 Host record: @\
 Type (Loại): A\
-Value (Giá trị): 103.126.157.33
+Value (Giá trị): 103.126.157.43
 
 ![](<../../.gitbook/assets/1421808992_tao_record (1) copy (1) copy (1).png>)
 
